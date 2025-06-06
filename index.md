@@ -3,6 +3,7 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+Ethan Campbell 4302879
 
 [Link to another page](./another-page.html).
 
